@@ -1,0 +1,22 @@
+.size{
+    font-size: 10px;
+}
+
+.nav-item{
+    font-size : 16px;
+    font-weight: 600;
+    
+}
+
+.navbar{
+    height: 60px;
+}
+
+.form-control{
+    font-size: 16px;
+}
+
+footer{
+    height : 30px;
+    
+}
